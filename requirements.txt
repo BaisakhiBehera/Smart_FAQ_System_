@@ -1,5 +1,12 @@
-streamlit
-pandas
-sentence-transformers
-scikit-learn
-numpy
+streamlit==1.18.1
+sentence-transformers==2.2.2
+transformers==4.30.2
+torch==1.13.1
+rich==14.0.0
+markdown-it-py==3.0.0
+mdurl==0.1.2
+pygments==2.19.1
+typing-extensions==4.5.0
+huggingface-hub==0.14.1
+altair==4.2.2
+numpy==1.24.4
