@@ -1,4 +1,5 @@
-Smart FAQ Auto-Responder
+Smart FAQ Auto-Responder:
+
 This is a Streamlit-based FAQ auto-responder that uses Sentence Transformers to match user questions with the most relevant frequently asked questions (FAQs).
 It returns the best answer along with a confidence score.
 
